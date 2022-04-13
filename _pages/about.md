@@ -12,7 +12,7 @@ I am a PhD student at Stanford Computer Science, where I'm advised by Professors
 I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/), and a Technology & Racial Equity graduate fellow at the [Center for
 Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/).
 
-My research on algorithmic fairness explores the relationship between statistical properties of machine learning models
+My research on algorithmic fairness explores statistical properties of machine learning models
 used in clinical settings, and their implications for health equity.
 
 Academic Publications 
