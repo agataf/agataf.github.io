@@ -15,7 +15,7 @@ Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/).
 My research on algorithmic fairness explores the relationship between statistical properties of machine learning models
 used in clinical settings, and their implications for health equity.
 
-Recent Publications 
+Academic Publications 
 ======
 
 <a href="https://informatics.bmj.com/content/29/1/e100460.full">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
@@ -51,3 +51,28 @@ Stephen R. Pfohl, **Agata Foryciarz**, Nigam H. Shah.
 <i>Journal of Biomedical Informatics, 113:103621, 2021</i>
 <br>
 \[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">paper</a>\] \[<a href="https://arxiv.org/abs/2007.10306">preprint</a>\] \[<a href="https://github.com/som-shahlab/fairness_benchmark">code</a>\]
+
+Non-academic Publications 
+======
+<a href="https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/">
+If We’re Not Careful, Tech Could Hurt the Fight against COVID-19</a>
+<br>
+Ria Kalluri, Lauren Gillespie, **Agata Foryciarz**, Wren Elhai, Sanjana Srivastava, Argyri Panezi, Lisa Einstein.<br>
+<i>Scientific American Blog, 2020.</i>
+<br>
+
+
+<a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">Black-Boxed Politics: Opacity is a Choice in AI Systems.</a>
+<br>
+Agata Foryciarz, Daniel Leufer, Katarzyna Szymielewicz.<br>
+<i>Medium and Internazionale (Italian translation)</i>
+<br>
+\[<a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">English</a>\]
+\[<a href="https://www.internazionale.it/sommario/1346">Italian</a>\]
+
+
+<a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Sztuczna Inteligencja Non-Fiction.</a>
+<br>
+Anna Obem, Katarzyna Szymielewicz. Współpraca merytoryczna: Agata Foryciarz<br>
+<i>Fundacja Panoptykon, 2020.</i>
+<br>
