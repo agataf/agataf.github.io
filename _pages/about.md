@@ -32,7 +32,7 @@ Academic Publications and Presentations
 <br>
 <i>Under review</i>
 <br>
-\[<a href="/files/Foryciarz2024.pdf">paper</a>\]
+\[<a href="/files/Foryciarz2024.pdf">preprint</a>\]
 
 <a href="https://informatics.bmj.com/content/29/1/e100460.full">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
 <br>
@@ -47,9 +47,11 @@ Academic Publications and Presentations
 <br>
 Stephen R. Pfohl, Yizhe Xu, <b>Agata Foryciarz</b>, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah
 <br>
-<i>arXiv:2202.01906</i>
+<i>Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency. 2022.</i>
 <br>
+\[<a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533166">paper</a>\]
 \[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
+\[<a href="https://www.youtube.com/watch?v=LBFPHd7q-eU">paper talk</a>\]
 
 <a href="https://www.nature.com/articles/s41598-022-07167-7">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
 <br>
