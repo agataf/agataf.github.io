@@ -9,20 +9,32 @@ redirect_from:
 ---
 
 I am a PhD student at Stanford Computer Science, where I'm advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/). 
-I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/).
-
-My research on algorithmic fairness explores statistical properties of machine learning models
-used in clinical settings, and their implications for health equity.
+I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). I am planning to defend my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, in the summer of 2025.
 
 Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
 Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow.
+
+Ongoing projects
+======
+<b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
+<br>
+<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
+
+We propose a novel microsimulation-based framework for attenuating societal bias in CKD progression data from a large primary care registry, which allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. The framework developed by us could flexibly be adapted to mitigate bias in other health data. 
+
+<b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
+<br>
+<b>Agata Foryciarz</b>, Sherri Rose, Lisa Goldman Rosas
+
+We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease (CKD) patients' ability to manage their condition. We will run focus groups to better understand the patients' experiences with getting care and managing CKD, followed by a series of model building workshops, during which participants will be guided through a multi-step process of constructing a causal loop diagram representing CKD-relevant social factors and their interactions.
+
 
 Academic Publications and Presentations
 ======
 
 <b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
-<b>Agata Foryciarz</b>, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
+<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
 <br>
 <i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
