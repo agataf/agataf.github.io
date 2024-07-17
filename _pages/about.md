@@ -11,6 +11,8 @@ redirect_from:
 I am a PhD student at Stanford Computer Science, where I'm advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/). 
 I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). I am planning to defend my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, in the summer of 2025.
 
+My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
+
 Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
 Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow.
 
