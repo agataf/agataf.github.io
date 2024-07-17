@@ -22,7 +22,7 @@ Ongoing projects
 <br>
 <b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
 
-We propose a novel microsimulation-based framework for attenuating societal bias in CKD progression data from a large primary care registry, which allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. The framework developed by us could flexibly be adapted to mitigate bias in other health data. 
+We are developing a novel microsimulation-based framework for attenuating societal bias in CKD progression data from a large primary care registry, which allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
