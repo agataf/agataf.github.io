@@ -9,15 +9,22 @@ redirect_from:
 ---
 
 I am a PhD student at Stanford Computer Science, where I'm advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/). 
-I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/), and a Technology & Racial Equity graduate fellow at the [Center for
-Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/).
+I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/).
 
 My research on algorithmic fairness explores statistical properties of machine learning models
 used in clinical settings, and their implications for health equity.
 
-Academic Publications 
+Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/) a Technology & Racial Equity graduate fellow at the [Center for
+Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow.
+
+Academic Publications and Presentations
 ======
 
+<b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
+<br>
+<b>Agata Foryciarz</b>, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
+<br>
+<i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
 <a href="/files/Foryciarz2024.pdf">Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</a>
 <br>
