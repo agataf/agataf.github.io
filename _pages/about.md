@@ -18,6 +18,15 @@ used in clinical settings, and their implications for health equity.
 Academic Publications 
 ======
 
+
+<a href="/files/Foryciarz2024.pdf">Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</a>
+<br>
+<b>Agata Foryciarz</b>, Nicole Gladish, David H Rehkopf, Sherri Rose
+<br>
+<i>Under review</i>
+<br>
+\[<a href="/files/Foryciarz2024.pdf">paper</a>\]
+
 <a href="https://informatics.bmj.com/content/29/1/e100460.full">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
 <br>
 <b>Agata Foryciarz</b>, Stephen R. Pfohl, Birju Patel, Nigam H. Shah
