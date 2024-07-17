@@ -14,7 +14,7 @@ I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascie
 My research on algorithmic fairness explores statistical properties of machine learning models
 used in clinical settings, and their implications for health equity.
 
-Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/) a Technology & Racial Equity graduate fellow at the [Center for
+Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
 Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow.
 
 Academic Publications and Presentations
