@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Stanford Computer Science, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/). 
-I'm a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). My thesis defense, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, is scheduled for the summer of 2025.
+I am a PhD student at Stanford Computer Science, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). My thesis defense, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, is scheduled for the summer of 2025.
 
 My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
 
