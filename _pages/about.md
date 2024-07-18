@@ -19,7 +19,7 @@ Ongoing projects
 ======
 <b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
-<u>Agata Foryciarz</u>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
+<u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 
 We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
@@ -35,7 +35,7 @@ Academic Publications and Presentations
 
 <b> A microsimulation-based framework for mitigating societal bias in primary care data</b>
 <br>
-<u>Agata Foryciarz</u>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
+<u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
 <i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
