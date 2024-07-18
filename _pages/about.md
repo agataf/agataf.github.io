@@ -17,15 +17,15 @@ Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [
 
 Ongoing projects
 ======
-<u> A microsimulation-based framework for mitigating societal bias in primary care data </u>
+<b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
-<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
+<u>Agata Foryciarz</u>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 
 We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
-<u> A participatory approach for understanding social drivers of chronic kidney disease progression</u>
+<b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
-<b>Agata Foryciarz</b>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
+<u>Agata Foryciarz</u>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
 
 We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease patients' ability to manage their condition. In a series of model building workshops, participants are guided through a multi-step process of constructing a causal loop diagram representing social factors and their interactions.
 
@@ -33,32 +33,32 @@ We are conducting a participatory research study to understand specific ways in 
 Academic Publications and Presentations
 ======
 
-<u> A microsimulation-based framework for mitigating societal bias in primary care data</u>
+<b> A microsimulation-based framework for mitigating societal bias in primary care data</b>
 <br>
-<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
+<u>Agata Foryciarz</u>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
 <i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
-<a href="/files/Foryciarz2024.pdf">Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</a>
+<b><a href="/files/Foryciarz2024.pdf">Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</a></b>
 <br>
-<b>Agata Foryciarz</b>, Nicole Gladish, David H. Rehkopf, Sherri Rose
+<u>Agata Foryciarz</u>, Nicole Gladish, David H. Rehkopf, Sherri Rose
 <br>
 <i>Under review</i>
 <br>
 \[<a href="/files/Foryciarz2024.pdf">preprint</a>\]
 
-<a href="https://informatics.bmj.com/content/29/1/e100460.full">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a>
+<b><a href="https://informatics.bmj.com/content/29/1/e100460.full">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a></b>
 <br>
-<b>Agata Foryciarz</b>, Stephen R. Pfohl, Birju Patel, Nigam H. Shah
+<u>Agata Foryciarz</u>, Stephen R. Pfohl, Birju Patel, Nigam H. Shah
 <br>
 <i>BMJ Health & Care Informatics 29, e100460</i>
 <br>
 \[<a href="https://arxiv.org/abs/2202.01906">paper</a>\]
 \[<a href="https://github.com/agataf/fairness_eval_ascvd">code</a>\]
 
-<a href="https://arxiv.org/abs/2202.01906">Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare</a>
+<b><a href="https://arxiv.org/abs/2202.01906">Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare</a></b>
 <br>
-Stephen R. Pfohl, Yizhe Xu, <b>Agata Foryciarz</b>, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah
+Stephen R. Pfohl, Yizhe Xu, <u>Agata Foryciarz</u>, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah
 <br>
 <i>Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency. 2022.</i>
 <br>
@@ -66,18 +66,18 @@ Stephen R. Pfohl, Yizhe Xu, <b>Agata Foryciarz</b>, Nikolaos Ignatiadis, Julian 
 \[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
 \[<a href="https://www.youtube.com/watch?v=LBFPHd7q-eU">paper talk</a>\]
 
-<a href="https://www.nature.com/articles/s41598-022-07167-7">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a>
+<b><a href="https://www.nature.com/articles/s41598-022-07167-7">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a></b>
 <br>
-Stephen R. Pfohl, Haoran Zhang, Yizhe Xu, **Agata Foryciarz**, Marzyeh Ghassemi, Nigam H. Shah.
+Stephen R. Pfohl, Haoran Zhang, Yizhe Xu, <u>Agata Foryciarz</u>, Marzyeh Ghassemi, Nigam H. Shah.
 <br>
 <i>Scientific Reports 12 (1), 1-13, 2022</i>
 <br>
 \[<a href="https://www.nature.com/articles/s41598-022-07167-7">paper</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
 
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a>
+<b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a></b>
 <br>
-Stephen R. Pfohl, **Agata Foryciarz**, Nigam H. Shah.
+Stephen R. Pfohl, <u>Agata Foryciarz</u>, Nigam H. Shah.
 <br>
 <i>Journal of Biomedical Informatics, 113:103621, 2021</i>
 <br>
@@ -85,26 +85,26 @@ Stephen R. Pfohl, **Agata Foryciarz**, Nigam H. Shah.
 
 Non-academic Publications 
 ======
-<a href="https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/">
+<b><a href="https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/"></b>
 If We’re Not Careful, Tech Could Hurt the Fight against COVID-19</a>
 <br>
-Ria Kalluri, Lauren Gillespie, **Agata Foryciarz**, Wren Elhai, Sanjana Srivastava, Argyri Panezi, Lisa Einstein.<br>
+Ria Kalluri, Lauren Gillespie, <u>Agata Foryciarz</u>, Wren Elhai, Sanjana Srivastava, Argyri Panezi, Lisa Einstein.<br>
 <i>Scientific American Blog, 2020.</i>
 <br>
 
 
-<a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">Black-Boxed Politics: Opacity is a Choice in AI Systems.</a>
+<b><a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">Black-Boxed Politics: Opacity is a Choice in AI Systems.</a></b>
 <br>
-Agata Foryciarz, Daniel Leufer, Katarzyna Szymielewicz.<br>
+<u>Agata Foryciarz</u>, Daniel Leufer, Katarzyna Szymielewicz.<br>
 <i>Medium and Internazionale (Italian translation)</i>
 <br>
 \[<a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">English</a>\]
 \[<a href="/files/Internazionale1346_AI.pdf">Italian</a>\]
 
 
-<a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Sztuczna Inteligencja Non-Fiction.</a>
+<b><a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Sztuczna Inteligencja Non-Fiction.</a></b>
 <br>
-Anna Obem, Katarzyna Szymielewicz. Współpraca merytoryczna: Agata Foryciarz<br>
+Anna Obem, Katarzyna Szymielewicz. Współpraca merytoryczna: <u>Agata Foryciarz</u><br>
 <i>Fundacja Panoptykon, 2020.</i>
 <br>
 \[<a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Polish</a>\]
