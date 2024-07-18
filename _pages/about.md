@@ -17,13 +17,13 @@ Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [
 
 Ongoing projects
 ======
-<u><b> A microsimulation-based framework for mitigating societal bias in primary care data </b></u>
+<u> A microsimulation-based framework for mitigating societal bias in primary care data </u>
 <br>
 <b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 
 We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
-<u><b> A participatory approach for understanding social drivers of chronic kidney disease progression</b></u>
+<u> A participatory approach for understanding social drivers of chronic kidney disease progression</u>
 <br>
 <b>Agata Foryciarz</b>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
 
@@ -33,7 +33,7 @@ We are conducting a participatory research study to understand specific ways in 
 Academic Publications and Presentations
 ======
 
-<u><b> A microsimulation-based framework for mitigating societal bias in primary care data </b></u>
+<u> A microsimulation-based framework for mitigating societal bias in primary care data</u>
 <br>
 <b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
