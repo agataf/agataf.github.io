@@ -99,7 +99,7 @@ Agata Foryciarz, Daniel Leufer, Katarzyna Szymielewicz.<br>
 <i>Medium and Internazionale (Italian translation)</i>
 <br>
 \[<a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">English</a>\]
-\[<a href="https://www.internazionale.it/sommario/1346">Italian</a>\]
+\[<a href="/files/Internazionale1346_AI.pdf">Italian</a>\]
 
 
 <a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Sztuczna Inteligencja Non-Fiction.</a>
