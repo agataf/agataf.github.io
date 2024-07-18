@@ -107,3 +107,4 @@ Agata Foryciarz, Daniel Leufer, Katarzyna Szymielewicz.<br>
 Anna Obem, Katarzyna Szymielewicz. Współpraca merytoryczna: Agata Foryciarz<br>
 <i>Fundacja Panoptykon, 2020.</i>
 <br>
+\[<a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Polish</a>\]
