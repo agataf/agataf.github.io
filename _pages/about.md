@@ -20,15 +20,15 @@ Ongoing projects
 ======
 <b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
-<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
+<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 
-We are developing a novel microsimulation-based framework for attenuating societal bias in CKD progression data from a large primary care registry, which allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
+We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
-<b>Agata Foryciarz</b>, Sherri Rose, Lisa Goldman Rosas
+<b>Agata Foryciarz</b>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
 
-We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease (CKD) patients' ability to manage their condition. We will run focus groups to better understand the patients' experiences with getting care and managing CKD, followed by a series of model building workshops, during which participants will be guided through a multi-step process of constructing a causal loop diagram representing CKD-relevant social factors and their interactions.
+We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease patients' ability to manage their condition. In a series of model building workshops, participants are guided through a multi-step process of constructing a causal loop diagram representing social factors and their interactions.
 
 
 Academic Publications and Presentations
@@ -36,7 +36,7 @@ Academic Publications and Presentations
 
 <b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
-<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce Sophia Adams, Sherri Rose
+<b>Agata Foryciarz</b>, Fernando Alarid Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
 <i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
