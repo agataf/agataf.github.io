@@ -39,7 +39,7 @@ Academic Publications and Presentations
 <br>
 <i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
-<b><a href="/files/Foryciarz2024.pdf">Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</a></b>
+<b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
 <u>Agata Foryciarz</u>, Nicole Gladish, David H. Rehkopf, Sherri Rose
 <br>
@@ -47,16 +47,17 @@ Academic Publications and Presentations
 <br>
 \[<a href="/files/Foryciarz2024.pdf">preprint</a>\]
 
-<b><a href="https://informatics.bmj.com/content/29/1/e100460.full">Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</a></b>
+<b>Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</b>
 <br>
 <u>Agata Foryciarz</u>, Stephen R. Pfohl, Birju Patel, Nigam H. Shah
 <br>
 <i>BMJ Health & Care Informatics 29, e100460</i>
 <br>
-\[<a href="https://arxiv.org/abs/2202.01906">paper</a>\]
+\[<a href="https://informatics.bmj.com/content/29/1/e100460.full">paper</a>\]
+\[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
 \[<a href="https://github.com/agataf/fairness_eval_ascvd">code</a>\]
 
-<b><a href="https://arxiv.org/abs/2202.01906">Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare</a></b>
+<b>Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare</b>
 <br>
 Stephen R. Pfohl, Yizhe Xu, <u>Agata Foryciarz</u>, Nikolaos Ignatiadis, Julian Genkins, Nigam H. Shah
 <br>
@@ -66,7 +67,7 @@ Stephen R. Pfohl, Yizhe Xu, <u>Agata Foryciarz</u>, Nikolaos Ignatiadis, Julian 
 \[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
 \[<a href="https://www.youtube.com/watch?v=LBFPHd7q-eU">paper talk</a>\]
 
-<b><a href="https://www.nature.com/articles/s41598-022-07167-7">A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</a></b>
+<b>A comparison of approaches to improve worst-case predictive model performance over patient subpopulations</b>
 <br>
 Stephen R. Pfohl, Haoran Zhang, Yizhe Xu, <u>Agata Foryciarz</u>, Marzyeh Ghassemi, Nigam H. Shah.
 <br>
@@ -75,7 +76,7 @@ Stephen R. Pfohl, Haoran Zhang, Yizhe Xu, <u>Agata Foryciarz</u>, Marzyeh Ghasse
 \[<a href="https://www.nature.com/articles/s41598-022-07167-7">paper</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
 
 
-<b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1532046420302495">An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</a></b>
+<b>An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</b>
 <br>
 Stephen R. Pfohl, <u>Agata Foryciarz</u>, Nigam H. Shah.
 <br>
@@ -85,15 +86,15 @@ Stephen R. Pfohl, <u>Agata Foryciarz</u>, Nigam H. Shah.
 
 Non-academic Publications 
 ======
-<b><a href="https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/"></b>
-If We’re Not Careful, Tech Could Hurt the Fight against COVID-19</a>
+<b>If We’re Not Careful, Tech Could Hurt the Fight against COVID-19</b>
 <br>
 Ria Kalluri, Lauren Gillespie, <u>Agata Foryciarz</u>, Wren Elhai, Sanjana Srivastava, Argyri Panezi, Lisa Einstein.<br>
 <i>Scientific American Blog, 2020.</i>
 <br>
+\[<a href="https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/">article</a>\]
 
 
-<b><a href="https://medium.com/@szymielewicz/black-boxed-politics-cebc0d5a54ad">Black-Boxed Politics: Opacity is a Choice in AI Systems.</a></b>
+<b>Black-Boxed Politics: Opacity is a Choice in AI Systems.</b>
 <br>
 <u>Agata Foryciarz</u>, Daniel Leufer, Katarzyna Szymielewicz.<br>
 <i>Medium and Internazionale (Italian translation)</i>
@@ -102,7 +103,7 @@ Ria Kalluri, Lauren Gillespie, <u>Agata Foryciarz</u>, Wren Elhai, Sanjana Sriva
 \[<a href="/files/Internazionale1346_AI.pdf">Italian</a>\]
 
 
-<b><a href="https://panoptykon.org/sztuczna-inteligencja-non-fiction">Sztuczna Inteligencja Non-Fiction.</a></b>
+<b>Sztuczna Inteligencja Non-Fiction.</b>
 <br>
 Anna Obem, Katarzyna Szymielewicz. Współpraca merytoryczna: <u>Agata Foryciarz</u><br>
 <i>Fundacja Panoptykon, 2020.</i>
