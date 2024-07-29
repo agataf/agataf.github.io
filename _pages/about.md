@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Stanford Computer Science, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). My thesis defense, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, is scheduled for the summer of 2025.
+I am a doctoral candidate in computer science at Stanford, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). The defense of my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, is scheduled for the summer of 2025.
 
 My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
 
@@ -23,6 +23,8 @@ Ongoing projects
 
 We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
+* Invited Paper presentation at the Joint Statistical Meetings 2024
+
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
 <u>Agata Foryciarz</u>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
@@ -32,12 +34,6 @@ We are conducting a participatory research study to understand specific ways in 
 
 Academic Publications and Presentations
 ======
-
-<b> A microsimulation-based framework for mitigating societal bias in primary care data</b>
-<br>
-<u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
-<br>
-<i>Invited Paper presentation at the Joint Statistical Meetings 2024</i>
 
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
