@@ -23,14 +23,13 @@ Ongoing projects
 
 We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
-* Invited Paper presentation at the Joint Statistical Meetings 2024
+* Joint Statistical Meetings 2024 Invited Paper \[<a href="/files/agataf_JSM_talk.pdf">slides</a>\]
 
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
 <u>Agata Foryciarz</u>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
 
 We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease patients' ability to manage their condition. In a series of model building workshops, participants are guided through a multi-step process of constructing a causal loop diagram representing social factors and their interactions.
-
 
 Academic Publications and Presentations
 ======
