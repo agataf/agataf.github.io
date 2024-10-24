@@ -31,7 +31,7 @@ We are developing a novel microsimulation-based framework for attenuating societ
 
 We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease patients' ability to manage their condition. In a series of model building workshops, participants are guided through a multi-step process of constructing a causal loop diagram representing social factors and their interactions.
 
-Academic Publications and Presentations
+Selected Academic Publications and Presentations
 ======
 
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
@@ -51,6 +51,15 @@ Academic Publications and Presentations
 \[<a href="https://informatics.bmj.com/content/29/1/e100460.full">paper</a>\]
 \[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
 \[<a href="https://github.com/agataf/fairness_eval_ascvd">code</a>\]
+
+<b>Clinical utility gains from incorporating comorbidity and geographic location information into risk estimation equations for atherosclerotic cardiovascular disease</b>
+<br>
+Yizhe Xu, <u>Agata Foryciarz</u>, Ethan Steinberg, Nigam H. Shah
+<br>
+<i>Journal of the American Medical Informatics Association 30 (5), 878-887, 2023.</i>
+<br>
+\[<a href="https://academic.oup.com/jamia/article/30/5/878/7043182">paper</a>\]
+\[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
 
 <b>Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare</b>
 <br>
