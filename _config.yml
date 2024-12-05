@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Agata Foryciarz"
 title_separator          : "-"
 name                     : &name "Agata Foryciarz"
-description              : &description "personal description"
+description              : &description "Computer science PhD Candidate"
 url                      : https://agataf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agataf/agataf.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Agata Foryciarz"
   avatar           : "profile_photo.png"
-  bio              : "PhD Student at Stanford Computer Science"
+  bio              : "PhD Candidate at Stanford Computer Science (biostatistics, machine learning and health policy)"
   location         : "San Francisco, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
