@@ -29,7 +29,7 @@ We are developing a novel microsimulation-based framework for attenuating societ
 
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
-<u>Agata Foryciarz</u>, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
+<u>Agata Foryciarz</u>, Neha Srivathsa, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
 
 We are conducting a participatory research study to understand specific ways in which social factors (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic kidney disease patients' ability to manage their condition. In a series of model building workshops, participants are guided through a multi-step process of constructing a causal loop diagram representing social factors and their interactions.
 
@@ -40,7 +40,7 @@ Selected Academic Publications
 <br>
 <u>Agata Foryciarz</u>, Nicole Gladish, David H. Rehkopf, Sherri Rose
 <br>
-<i>Under review</i>
+<i>Under revision at the Journal of the American Medical Informatics Association</i>
 <br>
 \[<a href="/files/Foryciarz2024.pdf">preprint</a>\]
 
