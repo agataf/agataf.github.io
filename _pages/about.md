@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "Agata Foryciarz"
-excerpt: Agata Foryciarz"
+excerpt: "Agata Foryciarz"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<a href="/files/agata-foryciarz-pronounciation.m4a">Name pronounciation</a>
 
 <a href="/files/agataf_cv_2024.pdf">CV (PDF)</a>
 
