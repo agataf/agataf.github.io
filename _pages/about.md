@@ -9,7 +9,7 @@ redirect_from:
 ---
 <a href="/files/agata-foryciarz-pronounciation.m4a">Name pronounciation</a>
 
-<a href="/files/agataf_cv_2024.pdf">CV (PDF)</a>
+<a href="/files/agataf_cv_2025.pdf">CV (PDF)</a>
 
 I am a doctoral candidate in computer science at Stanford, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). The defense of my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, is scheduled for the summer of 2025.
 
@@ -41,9 +41,9 @@ Selected Academic Publications
 <br>
 <u>Agata Foryciarz</u>, Nicole Gladish, David H. Rehkopf, Sherri Rose
 <br>
-<i>Under revision at the Journal of the American Medical Informatics Association</i>
+<i>Accepted for publication at the Journal of the American Medical Informatics Association</i>
 <br>
-\[<a href="/files/Foryciarz2024.pdf">preprint</a>\]
+\[<a href="/files/Foryciarz2025.pdf">preprint</a>\]
 
 <b>Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</b>
 <br>
