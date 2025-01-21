@@ -41,15 +41,16 @@ Selected Academic Publications
 <br>
 <u>Agata Foryciarz</u>, Nicole Gladish, David H. Rehkopf, Sherri Rose
 <br>
-<i>Accepted for publication at the Journal of the American Medical Informatics Association</i>
+<i>Journal of the American Medical Informatics Association 2025, ocaf009.</i>
 <br>
+\[<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf009/7964747">paper</a>\]
 \[<a href="/files/Foryciarz2025.pdf">preprint</a>\]
 
 <b>Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</b>
 <br>
 <u>Agata Foryciarz</u>, Stephen R. Pfohl, Birju Patel, Nigam H. Shah
 <br>
-<i>BMJ Health & Care Informatics 29, e100460</i>
+<i>BMJ Health & Care Informatics 29, e100460.</i>
 <br>
 \[<a href="https://informatics.bmj.com/content/29/1/e100460.full">paper</a>\]
 \[<a href="https://arxiv.org/abs/2202.01906">preprint</a>\]
