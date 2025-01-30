@@ -27,6 +27,8 @@ Ongoing projects
 We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
 
 * Joint Statistical Meetings 2024 Invited Paper \[<a href="/files/agataf_JSM_talk.pdf">slides</a>\]
+* International Conference on Health Policy Statistics 2025 Presentation
+* Joint Statistical Meetings 2025 (Upcoming) - Invited Session: Enriching the Analysis of Chronic Kidney Disease with Statistics and its New Frontiers.
 
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
