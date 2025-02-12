@@ -16,7 +16,7 @@ I am a doctoral candidate in computer science at Stanford, advised by Professors
 My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
 
 Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
-Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), and a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow.
+Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow, as well as founded and co-led the [Stanford Computing & Society group](https://computing-society.stanford.edu/).
 
 Ongoing projects
 ======
