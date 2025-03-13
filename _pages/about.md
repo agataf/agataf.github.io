@@ -11,7 +11,7 @@ redirect_from:
 
 <a href="/files/agataf_cv_2025.pdf">CV (PDF)</a>
 
-I am a doctoral candidate in computer science at Stanford, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). The defense of my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of the use of medical algorithms_, is scheduled for the summer of 2025.
+I am a doctoral candidate in computer science at Stanford, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). The defense of my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of medical algorithms_, is scheduled for May of 2025.
 
 My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
 
