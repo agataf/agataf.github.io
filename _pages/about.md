@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a href="/files/agata-foryciarz-pronounciation.m4a">Name pronounciation</a>
+Name pronounciation: agata fɔrɨt͡ɕaʂ (<a href="/files/agata-foryciarz-pronounciation.m4a">Recording</a>)
 
 <a href="/files/agataf_cv_2025.pdf">CV (PDF)</a>
 
