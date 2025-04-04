@@ -20,16 +20,6 @@ Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), a [McCo
 
 Ongoing projects
 ======
-<b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
-<br>
-<u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
-
-We are developing a novel microsimulation-based framework for attenuating societal bias in chronic kidney disease progression data from a large primary care registry. This allows us to generate counterfactual outcome distributions, reflecting rates of end-stage renal disease that would have been observed in the absence of race-based diagnosis and treatment criteria. Our framework could flexibly be adapted to mitigate bias in other health data. 
-
-* Joint Statistical Meetings 2024 Invited Paper \[<a href="/files/agataf_JSM_talk.pdf">slides</a>\]
-* International Conference on Health Policy Statistics 2025 Presentation
-* Joint Statistical Meetings 2025 (Upcoming) - Invited Session: Enriching the Analysis of Chronic Kidney Disease with Statistics and its New Frontiers.
-
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
 <u>Agata Foryciarz</u>, Neha Srivathsa, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
@@ -44,6 +34,18 @@ factors and their interactions.
 Selected Academic Publications
 ======
 
+<b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
+<br>
+<u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
+<br>
+<i>Under revision</i>
+<br>
+\[<a href="/files/Foryciarz2025-microsim.pdf">preprint</a>\]
+\[<a href="https://github.com/StanfordHPDS/data_transformation">code</a>\]
+* Joint Statistical Meetings 2024 Invited Paper \[<a href="/files/agataf_JSM_talk.pdf">slides</a>\]
+* International Conference on Health Policy Statistics 2025 Presentation
+* Joint Statistical Meetings 2025 (Upcoming) - Invited Session: Enriching the Analysis of Chronic Kidney Disease with Statistics and its New Frontiers.
+
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
 <u>Agata Foryciarz</u>, Nicole Gladish, David H. Rehkopf, Sherri Rose
@@ -51,7 +53,6 @@ Selected Academic Publications
 <i>Journal of the American Medical Informatics Association 2025, ocaf009.</i>
 <br>
 \[<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf009/7964747">paper</a>\]
-\[<a href="/files/Foryciarz2025.pdf">preprint</a>\]
 
 <b>Evaluating algorithmic fairness in the presence of clinical guidelines: the case of atherosclerotic cardiovascular disease risk estimation</b>
 <br>
