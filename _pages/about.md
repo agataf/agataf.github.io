@@ -38,13 +38,14 @@ Selected Academic Publications
 <br>
 <u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
-<i>Under revision</i>
+<i>Under review</i>
 <br>
-\[<a href="/files/Foryciarz2025-microsim.pdf">preprint</a>\]
+\[<a href="https://www.medrxiv.org/content/10.1101/2025.04.03.25325206v1">medRxiv preprint</a>\]
 \[<a href="https://github.com/StanfordHPDS/data_transformation">code</a>\]
-* Joint Statistical Meetings 2024 Invited Paper \[<a href="/files/agataf_JSM_talk.pdf">slides</a>\]
+* Joint Statistical Meetings 2024 Invited Paper
+* RAND Statistics Seminar Series 2024
 * International Conference on Health Policy Statistics 2025 Presentation
-* Joint Statistical Meetings 2025 (Upcoming) - Invited Session: Enriching the Analysis of Chronic Kidney Disease with Statistics and its New Frontiers.
+* Joint Statistical Meetings 2025 Invited Session (Upcoming)
 
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
