@@ -22,7 +22,7 @@ Ongoing projects
 ======
 <b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
 <br>
-<u>Agata Foryciarz</u>, Neha Srivathsa, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
+<u>Agata Foryciarz</u>\*, Neha Srivathsa\*, Lisa Goldman Rosas, Oshra Sedan, Sherri Rose
 
 We conducted a participatory research study to understand specific ways in which social factors
 (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic
@@ -30,6 +30,8 @@ kidney disease patients’ ability to manage their condition. In a series of foc
 October and November 2024) and model building workshops (completed in January 2025), participants
 were guided through a multi-step process of constructing a causal loop diagram representing social
 factors and their interactions.
+
+\*Both authors contributed equally to this work
 
 Selected Academic Publications
 ======
