@@ -11,12 +11,14 @@ Name pronounciation: agata fɔrɨt͡ɕaʂ (<a href="/files/agata-foryciarz-prono
 
 <a href="/files/agataf_cv_2025.pdf">CV (PDF)</a>
 
-I am a doctoral candidate in computer science at Stanford, advised by Professors [Sherri Rose](http://drsherrirose.org/) and [Carlos Guestrin](https://guestrin.su.domains/), and a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/). The defense of my thesis, titled _Statistical and mixed-methods approaches for analyzing health equity consequences of medical algorithms_, is scheduled for May of 2025.
+I am an incoming postdoctoral fellow at the [Stanford Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html) and [Stanford Center on Longevity](https://longevity.stanford.edu/), working with Professors [David Rehkopf](https://profiles.stanford.edu/david-rehkopf) and [Nilam Ram](https://cas.stanford.edu/people/nilam-ram). My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
 
-My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
+Previously, I completed a PhD in Computer Science under the supervision of Professor [Sherri Rose](http://drsherrirose.org/), and was a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) at the Stanford Department of Health Policy.
 
-Previously at Stanford, I have been a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
-Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow, as well as founded and co-led the [Stanford Computing & Society group](https://computing-society.stanford.edu/).
+<!-- 
+During my PhD, I was also a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
+Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow, as well as founded and co-led the [Stanford Computing & Society group](https://computing-society.stanford.edu/). 
+-->
 
 Ongoing projects
 ======
@@ -47,7 +49,6 @@ Selected Academic Publications
 * Joint Statistical Meetings 2024 Invited Paper
 * RAND Statistics Seminar Series 2024
 * International Conference on Health Policy Statistics 2025 Presentation
-* Joint Statistical Meetings 2025 Invited Session (Upcoming)
 
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
