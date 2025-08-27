@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Agata Foryciarz"
-excerpt: "Agata Foryciarz"
+title: "Agata Foryciarz, PhD"
+excerpt: "Agata Foryciarz, PhD"
 author_profile: true
 redirect_from: 
   - /about/
