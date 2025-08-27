@@ -9,7 +9,7 @@ redirect_from:
 ---
 Name pronounciation: agata fɔrɨt͡ɕaʂ (<a href="/files/agata-foryciarz-pronounciation.m4a">Recording</a>)
 
-<a href="/files/agataf_cv_2025.pdf">CV (PDF)</a>
+<a href="/files/agataf_cv_2025-1.pdf">CV (PDF)</a>
 
 I am an incoming postdoctoral fellow at the [Stanford Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html) and [Stanford Center on Longevity](https://longevity.stanford.edu/), working with Professors [David Rehkopf](https://profiles.stanford.edu/david-rehkopf) and [Nilam Ram](https://cas.stanford.edu/people/nilam-ram). My interdisciplinary research draws from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
 
