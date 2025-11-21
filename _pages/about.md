@@ -20,11 +20,10 @@ During my PhD, I was also a member of the [Shah lab](https://shahlab.stanford.ed
 Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/), a [McCoy Family Center for Ethics in Society](https://ethicsinsociety.stanford.edu/) graduate fellow, as well as founded and co-led the [Stanford Computing & Society group](https://computing-society.stanford.edu/). 
 -->
 
+<!-- 
 Ongoing projects
 ======
-<b> A participatory approach for understanding social drivers of chronic kidney disease progression</b>
-<br>
-<u>Agata Foryciarz</u>\*, Neha Srivathsa\*, Oshra Sedan, Lisa Goldman Rosas, Sherri Rose
+
 
 We conducted a participatory research study to understand specific ways in which social factors
 (e.g. housing, transportation, adverse experiences, access barriers, direct discrimination) impact chronic
@@ -32,17 +31,24 @@ kidney disease patients’ ability to manage their condition. In a series of foc
 October and November 2024) and model building workshops (completed in January 2025), participants
 were guided through a multi-step process of constructing a causal loop diagram representing social
 factors and their interactions.
+-->
 
-\*Both authors contributed equally to this work
 
 Selected Academic Publications
 ======
+
+<b> Causal modeling of chronic kidney disease in a participatory framework for informing the inclusion of social drivers in health algorithms</b>
+<br>
+<u>Agata Foryciarz</u>\*, Neha Srivathsa\*, Oshra Sedan, Lisa Goldman Rosas, Sherri Rose
+<br>
+<i>Under review</i>
+<br>
 
 <b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
 <u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
-<i>Under review</i>
+<i>Under revision</i>
 <br>
 \[<a href="https://www.medrxiv.org/content/10.1101/2025.04.03.25325206v1">medRxiv preprint</a>\]
 \[<a href="https://github.com/StanfordHPDS/data_transformation">code</a>\]
