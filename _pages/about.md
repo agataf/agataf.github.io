@@ -43,6 +43,8 @@ Selected Academic Publications
 <br>
 <i>Under review</i>
 <br>
+\[<a href="https://www.medrxiv.org/content/10.1101/2025.11.19.25340498v1">preprint</a>\]
+<br>
 
 <b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
 <br>
