@@ -41,7 +41,7 @@ Selected Academic Publications
 <br>
 <u>Agata Foryciarz</u>\*, Neha Srivathsa\*, Oshra Sedan, Lisa Goldman Rosas, Sherri Rose
 <br>
-<i>Under review</i>
+<i>Under revision</i>
 <br>
 \[<a href="https://www.medrxiv.org/content/10.1101/2025.11.19.25340498v1">preprint</a>\]
 <br>
@@ -57,6 +57,13 @@ Selected Academic Publications
 * Joint Statistical Meetings 2024 Invited Paper
 * RAND Statistics Seminar Series 2024
 * International Conference on Health Policy Statistics 2025 Presentation
+
+<b>Statistical and mixed-methods approaches for analyzing health consequences of medical algorithms</b>
+<br>
+<u>Agata Foryciarz</u>
+<br>
+\[<a href="https://purl.stanford.edu/xj603cd1091">dissertation</a>\]
+
 
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
