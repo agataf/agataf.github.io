@@ -58,6 +58,15 @@ Selected Academic Publications
 * RAND Statistics Seminar Series 2024
 * International Conference on Health Policy Statistics 2025 Presentation
 
+<b> Penalized fair regression for multiple groups in chronic kidney disease </b>
+<br>
+Carter H. Nakamoto, Lucia Lushi Chen, <u>Agata Foryciarz</u>, Sherri Rose
+<br>
+<i>Under review</i>
+<br>
+\[<a href="https://arxiv.org/abs/2512.17340">preprint</a>\]
+
+
 <b>Statistical and mixed-methods approaches for analyzing health consequences of medical algorithms</b>
 <br>
 <u>Agata Foryciarz</u>
