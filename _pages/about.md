@@ -70,6 +70,7 @@ Carter H. Nakamoto, Lucia Lushi Chen, <u>Agata Foryciarz</u>, Sherri Rose
 <b>Statistical and mixed-methods approaches for analyzing health consequences of medical algorithms</b>
 <br>
 <u>Agata Foryciarz</u>
+<i>PhD Dissertation, Stanford University, 2025</i>
 <br>
 \[<a href="https://purl.stanford.edu/xj603cd1091">dissertation</a>\]
 
