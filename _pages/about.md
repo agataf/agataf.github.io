@@ -37,20 +37,19 @@ factors and their interactions.
 Selected Academic Publications
 ======
 
-<b> Causal modeling of chronic kidney disease in a participatory framework for informing the inclusion of social drivers in health algorithms</b>
+<b>Causal modeling of chronic kidney disease in a participatory framework for informing the inclusion of social drivers in health algorithms</b>
 <br>
 <u>Agata Foryciarz</u>\*, Neha Srivathsa\*, Oshra Sedan, Lisa Goldman Rosas, Sherri Rose
 <br>
-<i>Under revision</i>
+<i>Journal of the American Medical Informatics Association 2026, ocag019.</i>
 <br>
-\[<a href="https://www.medrxiv.org/content/10.1101/2025.11.19.25340498v1">preprint</a>\]
-<br>
+\[<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag019/8471648">paper</a>\]
 
-<b> A microsimulation-based framework for mitigating societal bias in primary care data </b>
+<b>A microsimulation-based approach for mitigating societal bias in chronic kidney disease data</b>
 <br>
 <u>Agata Foryciarz</u>, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, Sherri Rose
 <br>
-<i>Under revision</i>
+<i>In press, Medical Decision Making 2026</i>
 <br>
 \[<a href="https://www.medrxiv.org/content/10.1101/2025.04.03.25325206v1">medRxiv preprint</a>\]
 \[<a href="https://github.com/StanfordHPDS/data_transformation">code</a>\]
