@@ -11,9 +11,9 @@ Name pronounciation: agata fɔrɨt͡ɕaʂ (<a href="/files/agata-foryciarz-prono
 
 <a href="/files/agataf_cv_2025-1.pdf">CV (PDF)</a>
 
-I am a postdoctoral fellow at the [Stanford Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html) and [Stanford Center on Longevity](https://longevity.stanford.edu/), working with Professors [David Rehkopf](https://profiles.stanford.edu/david-rehkopf) and [Nilam Ram](https://cas.stanford.edu/people/nilam-ram). 
+I am an interdisciplinary public health researcher and a postdoctoral fellow at the [Stanford Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html) and the [Stanford Center on Longevity](https://longevity.stanford.edu/), working with Professor [David Rehkopf](https://profiles.stanford.edu/david-rehkopf). My current research examines social factors contributing to health declines among middle aged and older US adults, with a particular focus on income and labor. I am also developing methods to generate improved projections of future population health by aligning microsimulation models with life course thoery.
 
-Previously, I completed a PhD in Computer Science under the supervision of Professor [Sherri Rose](http://drsherrirose.org/), and was a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) at the Stanford Department of Health Policy. My interdisciplinary research drew from machine learning, biostatistics, decision science, health services research, social epidemiology and community engaged research to study how statistical models used in US primary care affect health inequities, and how to build systems which alleviate, rather than exacerbate them.
+Previously, I completed a PhD in computer science under the supervision of Professor [Sherri Rose](http://drsherrirose.org/), and was a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) at the Stanford Department of Health Policy.
 
 <!-- 
 During my PhD, I was also a member of the [Shah lab](https://shahlab.stanford.edu/), a Technology & Racial Equity graduate fellow at the [Center for
@@ -65,14 +65,12 @@ Carter H. Nakamoto, Lucia Lushi Chen, <u>Agata Foryciarz</u>, Sherri Rose
 <br>
 \[<a href="https://arxiv.org/abs/2512.17340">preprint</a>\]
 
-
 <b>Statistical and mixed-methods approaches for analyzing health consequences of medical algorithms</b>
 <br>
 <u>Agata Foryciarz</u>
 <i>PhD Dissertation, Stanford University, 2025</i>
 <br>
 \[<a href="https://purl.stanford.edu/xj603cd1091">dissertation</a>\]
-
 
 <b>Incorporating area-level social drivers of health in predictive algorithms using electronic health record data</b>
 <br>
@@ -119,8 +117,7 @@ Stephen R. Pfohl, Haoran Zhang, Yizhe Xu, <u>Agata Foryciarz</u>, Marzyeh Ghasse
 <br>
 \[<a href="https://www.nature.com/articles/s41598-022-07167-7">paper</a>\] \[<a href="https://github.com/som-shahlab/subpopulation_robustness">code</a>\]
 
-
-<b>An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction</b>
+<b>An empirical characterization of fair machine learning for clinical risk prediction</b>
 <br>
 Stephen R. Pfohl, <u>Agata Foryciarz</u>, Nigam H. Shah.
 <br>
