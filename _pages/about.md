@@ -11,7 +11,7 @@ Name pronounciation: agata fɔrɨt͡ɕaʂ (<a href="/files/agata-foryciarz-prono
 
 <a href="/files/agataf_cv_2025-1.pdf">CV (PDF)</a>
 
-I am an interdisciplinary population health researcher and a postdoctoral fellow at the [Stanford Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html) and the [Stanford Center on Longevity](https://longevity.stanford.edu/), working with Professor [David Rehkopf](https://profiles.stanford.edu/david-rehkopf). My current work examines social factors contributing to health declines among middle aged and older US adults, with a particular focus on income and labor. I am also developing methods to generate improved projections of future population health by aligning microsimulation models with life course theory.
+I am an interdisciplinary population health researcher and a postdoctoral fellow at the [Stanford Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html) and the [Stanford Center on Longevity](https://longevity.stanford.edu/), working with Professor [David Rehkopf](https://profiles.stanford.edu/david-rehkopf). My current work examines social factors contributing to health declines among middle aged and older US adults, with a particular focus on income and labor. I am also developing methods to generate improved projections of future population health by aligning microsimulation model specification with life course theory.
 
 Previously, I completed a PhD in computer science under the supervision of Professor [Sherri Rose](http://drsherrirose.org/), and was a member of the [Health Policy Data Science Lab](http://healthpolicydatascience.org/) at the Stanford Department of Health Policy.
 
